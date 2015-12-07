@@ -1,0 +1,25 @@
+{
+  "name": "uuid-js",
+  "description": "A js library to generate and parse UUIDs,TimeUUIDs and generate TimeUUID based on Date for range selections",
+  "main": "./lib/uuid.js",
+  "authors": [
+    "\"author\" : \"Patrick Negri <patrick@iugu.com.br>\""
+  ],
+  "license": "MIT",
+  "keywords": [
+    "uuid"
+  ],
+  "homepage": "http://github.com/pnegri/uuid-js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
